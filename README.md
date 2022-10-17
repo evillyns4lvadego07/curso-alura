@@ -1,1 +1,1 @@
-# curso-alura 🦈🇧🇷
+# curso-alura
